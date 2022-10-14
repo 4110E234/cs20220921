@@ -20,13 +20,13 @@
 - [Extend List](https://gist.github.com/4110E34/f4d91f6c1a9c256d76e0d28c9b01c53b)
 - [Add Any Iterable](https://gist.github.com/4110E34/e4b243423404982b9349f2aed0244933)
 
-# [Python - Remove List Items]((https://www.w3schools.com/python/python_lists_remove.asp)
+# [Python - Remove List Items](https://www.w3schools.com/python/python_lists_remove.asp)
 
 - [Remove Specified Item](https://gist.github.com/4110E34/7a4bff337d587e2e9dc80b2c2e6aa306)
 - [Remove Specified Index](https://gist.github.com/4110E34/2eb873202ed63b8e4a2abe8d4517742d)
 - [Clear The List](https://gist.github.com/4110E34/8e507e61762b66c60db4c33300c1b7a2)
 
-# [Python - Sort Lists]((https://www.w3schools.com/python/python_lists_sort.asp)
+# [Python - Sort Lists](https://www.w3schools.com/python/python_lists_sort.asp)
 
 - [Sort List Alphanumerically](https://gist.github.com/4110E34/ade16cf65795ecfd8ce67719f29ec734)
 - [Sort Descending](https://gist.github.com/4110E34/6a4093619fe40ffa6ebe2bd22f83b06d)
