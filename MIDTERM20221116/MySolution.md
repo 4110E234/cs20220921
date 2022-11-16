@@ -32,5 +32,82 @@ Python has commenting capability for the purpose of in-code documentation. Comme
 ```
 - answer https://www.w3schools.com/python/python_comments.asp
 ```
-Comments starts with a #, and Python will ignore them
+(B) # Comments starts with a #, and Python will ignore them
 ```
+# 10
+```
+Which function can returns the length of a string?
+a = "Hello, Pythonian!"
+print(_________)
+(A) len(a)  (B) length(a)   (C) count(a)  (D)  num(a)
+```
+- answer https://www.w3schools.com/python/gloss_python_string_length.asp\
+```
+a = "Hello, Pythonian!"
+print(len(a))
+(A) len(a)
+```
+# 15 
+```
+Python has a set of built-in methods that you can use on strings. Which method can converts string into lower case ?
+(A)capitalize()     (B) casefold()     (C) lower()  (D)expandtabs()
+```
+- answer https://www.w3schools.com/python/ref_string_casefold.asp
+```
+(B) casefold(), (C) lower()
+```
+# 16 
+```
+Python Booleans
+Which one of the following statements is wrong?
+(A) Booleans represent one of two values: True or False. 
+(B) The bool() function allows you to evaluate any value, and give you True or False in return, 
+(C) print(10 > 9) will output True  
+(D) print(10 = 9) will output True
+``` 
+- answer https://www.w3schools.com/python/python_booleans.asp
+```
+(D) print(10 = 9) will output True
+```
+# 17
+```
+Python Lists 
+Which of the following statements is wrong?
+(A) Lists are used to store multiple items in a single variable.
+(B) Lists are created using square brackets 
+(C) List items are ordered, changeable, and allow duplicate values. 
+(D) Lists can not have items with the same value
+```
+- answer https://www.w3schools.com/python/python_lists.asp
+```
+(D) Lists can not have items with the same value
+```
+# 19
+```
+Python has a set of built-in methods that you can use on dictionaries. Which statements are correct ?
+(A) clear() will removes all the elements from the dictionary
+(B) copy() will returns a copy of the dictionary 
+(C) items() will returns a list containing a tuple for each key value pair  
+(D) popitem()	will removes the last inserted key-value pair
+```
+- answer https://www.w3schools.com/python/python_ref_dictionary.asp
+```
+(A)clear()	Removes all the elements from the dictionary
+(B)copy()	Returns a copy of the dictionary
+(C)items()	Returns a list containing a tuple for each key value pair
+(D)popitem()	Removes the last inserted key-value pair
+```
+# 20
+``` 
+Python supports the usual logical conditions from mathematics:
+Which statements are correct ?
+(A)Equals: a = b
+(B)Not Equals: a != b
+(C)Less than or equal to: a <= b
+(D)Greater than: a > b
+```
+-answer https://www.w3schools.com/python/python_operators.asp
+```
+(B)Not Equals: a != b
+(C)Less than or equal to: a <= b
+(D)Greater than: a > b
