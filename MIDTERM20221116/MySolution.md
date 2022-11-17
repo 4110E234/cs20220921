@@ -110,3 +110,16 @@ Which statements are correct ?
 (B)Not Equals: a != b
 (C)Less than or equal to: a <= b
 (D)Greater than: a > b
+```
+# 23
+```
+If the function 
+int volume (int x = 1, int y = 1, int z = 1); 
+is called by the expression volume (7,8), how many default arguments are used?
+(A) None  (B) One  (C) Two  (D) Three
+(E) It depends on the runtime environment.
+```
+- answer https://www.programiz.com/python-programming/function-argument
+```
+(C) Two
+
